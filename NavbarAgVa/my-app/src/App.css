@@ -1,0 +1,38 @@
+.navbar{
+  color: black;
+  display: block;
+  margin: 0;
+  padding: 0;
+  font-family: serif;
+  background-color: aqua;
+
+
+}
+.navbar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 1px;
+  margin-left: 60%;
+  display: flex;
+  
+
+}
+.navbar ul li{
+  list-style-type: none;
+  padding: 0;
+  margin: 5px;
+
+}
+li{
+  display: inline;
+  float: left;
+}
+.navbar ul{
+  margin-left: 60%;
+  
+}
+.logo{
+  margin-left: 50%;
+  
+
+}
